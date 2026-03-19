@@ -100,29 +100,21 @@ This helped uncover common discussion areas such as:
 ## Key Visualisations
 
 ### Airline Performance Comparison
-This chart compares airlines based on overall customer scores and highlights the strongest performers in the dataset.
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/514ae510-eed5-4553-b744-a64144c58059" />
 
-<img width="1189" height="590" alt="airline_performance_comparison" src="https://github.com/user-attachments/assets/394090d0-43c5-47d0-a612-5cf16dfbc1c3" />
+### Qantas vs Top Airlines (Trend Analysis)
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/1ab4f49e-931c-48e2-815e-846f4ddd3b3d" />
 
-### Qantas vs Jetstar Recommendation Analysis
-This visual compares recommendation rates between Qantas Airways and Jetstar Airways across customer segments.
+### Sentiment Comparison (Business vs Economy)
+<img width="589" height="390" alt="image" src="https://github.com/user-attachments/assets/86cd2ef7-842d-4c80-8ef7-84258f48e89d" />
+<img width="589" height="390" alt="image" src="https://github.com/user-attachments/assets/c5d09480-df22-4ccb-aed5-cebb687e24ab" />
 
-![Qantas vs Jetstar Recommendation Analysis](images/qantas_jetstar_recommendation.png)
 
-### Sentiment Analysis by Airline
-This graph shows average sentiment scores by airline, helping identify which airlines receive the most positive review language.
+### Topic Model Coherence
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/380f4d76-7110-41f8-8405-1c22baaa44ee" />
 
-![Sentiment Analysis by Airline](images/sentiment_by_airline.png)
-
-### Common Passenger Concerns
-This visual highlights the most frequent concerns identified through topic modelling and review text analysis.
-
-![Common Passenger Concerns](images/passenger_concerns_topics.png)
-
-### Word Cloud / Topic Keywords
-This visual summarises prominent terms that appear across customer reviews.
-
-![Topic Keywords](images/topic_keywords_wordcloud.png)
+### Topic Distribution (Top vs Bottom Airlines)
+<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/e5d87658-7334-46d7-8d6c-fe83a89d8c59" />
 
 
 ## Key Findings
