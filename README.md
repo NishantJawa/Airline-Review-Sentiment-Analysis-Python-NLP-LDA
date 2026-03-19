@@ -102,7 +102,7 @@ This helped uncover common discussion areas such as:
 ### Airline Performance Comparison
 This chart compares airlines based on overall customer scores and highlights the strongest performers in the dataset.
 
-![Airline Performance Comparison](images/airline_performance_comparison.png)
+<img width="1189" height="590" alt="airline_performance_comparison" src="https://github.com/user-attachments/assets/394090d0-43c5-47d0-a612-5cf16dfbc1c3" />
 
 ### Qantas vs Jetstar Recommendation Analysis
 This visual compares recommendation rates between Qantas Airways and Jetstar Airways across customer segments.
