@@ -18,7 +18,6 @@ This project addresses that problem by analysing airline reviews to answer key b
 
 The goal is to transform raw review data into insights that could support service improvement, customer experience strategy, and competitive benchmarking.
 
----
 
 ## Dataset
 The analysis uses an airline review dataset containing approximately 74,000 reviews, from which a sample of 50,000 reviews was used for this project.
@@ -36,7 +35,6 @@ The analysis uses an airline review dataset containing approximately 74,000 revi
 
 The dataset contains both structured variables (ratings, airline name, cabin type) and unstructured text data (customer reviews), making it suitable for both descriptive and NLP-based analysis.
 
----
 
 ## Project Objectives
 This project was designed to:
@@ -47,7 +45,6 @@ This project was designed to:
 4. Use topic modelling to identify the main themes passengers discuss  
 5. Generate practical business insights from customer feedback data  
 
----
 
 ## Methodology
 
@@ -87,7 +84,6 @@ This helped uncover common discussion areas such as:
 - food and comfort
 - airport and boarding experiences
 
----
 
 ## Tools and Technologies
 - **Python**
@@ -100,7 +96,6 @@ This helped uncover common discussion areas such as:
 - **Gensim**
 - **VADER Sentiment Analysis**
 
----
 
 ## Key Visualisations
 
@@ -129,7 +124,6 @@ This visual summarises prominent terms that appear across customer reviews.
 
 ![Topic Keywords](images/topic_keywords_wordcloud.png)
 
----
 
 ## Key Findings
 
@@ -155,7 +149,6 @@ Passenger concerns most commonly focused on:
 
 These findings suggest that operational efficiency and service responsiveness play a critical role in customer satisfaction.
 
----
 
 ## Business Insights
 The findings from this project could support real airline decision-making in several ways:
@@ -166,7 +159,6 @@ The findings from this project could support real airline decision-making in sev
 - **Reputation management:** track sentiment trends to monitor brand perception
 - **Segment analysis:** understand where dissatisfaction is strongest, such as Economy class customers
 
----
 
 ## Repository Structure
 ```bash
